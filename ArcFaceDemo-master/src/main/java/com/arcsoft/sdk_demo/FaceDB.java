@@ -24,10 +24,10 @@ import java.util.List;
 public class FaceDB {
 	private final String TAG = this.getClass().toString();
 
-	public static String appid = "xxx";
-	public static String ft_key = "xxx";
-	public static String fd_key = "xxx";
-	public static String fr_key = "xxx";
+	public static String appid = "GjwR2GQPKua3BV8cnrZExAz62BURvBQgKaUHLsfu8WgJ";
+	public static String ft_key = "5LYaN9TfHBmbS3euf8fg7tYaTNfqAKuVNtUwVkc7Tk51";
+	public static String fd_key = "5LYaN9TfHBmbS3euf8fg7tYhcmvz3mvpVnG1qKSvSVck";
+	public static String fr_key = "5LYaN9TfHBmbS3euf8fg7tYpnBCDApejQgjNvrwMBa2E";
 
 
 	String mDBPath;
